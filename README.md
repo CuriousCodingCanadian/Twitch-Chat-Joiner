@@ -34,7 +34,7 @@ If you're looking for a program to bot Twitch's in-built points system, I recomm
 - `wait_time`: How often the bot should check if streamers are online/offline and join their chats (in seconds)
 - `verbose`: Boolean of whether or not events should be logged to console (People joining, leaving, chat messages, pings, notices, etc.)
 
-TheOnlyWayUp#1231
+Discord: `theonlywayup`
 
 ---
 
